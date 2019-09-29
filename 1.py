@@ -8,3 +8,7 @@ def dev():
 
 def master():
     pass
+
+
+def bendi():
+    pass
