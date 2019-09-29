@@ -10,7 +10,10 @@ def master():
     pass
 
 
-def bendi():
+# def bendi():
+#     pass
+
+def a():
     pass
 
 def a():
