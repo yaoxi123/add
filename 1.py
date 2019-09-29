@@ -5,3 +5,6 @@ def test():
 
 def dev():
     pass
+
+def master():
+    pass
