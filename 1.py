@@ -1,1 +1,3 @@
-master
+
+def test():
+    pass
