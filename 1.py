@@ -15,3 +15,6 @@ def master():
 
 def a():
     pass
+
+def b():
+    pass
