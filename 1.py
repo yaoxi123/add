@@ -12,3 +12,6 @@ def master():
 
 def bendi():
     pass
+
+def a():
+    pass
